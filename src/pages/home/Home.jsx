@@ -2,7 +2,7 @@
 const Home = () => {
   return (
     <div>
-      get started with coding! 🤗
+      Home
     </div>
   );
 };
